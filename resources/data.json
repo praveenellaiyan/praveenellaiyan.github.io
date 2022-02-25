@@ -1,0 +1,80 @@
+{
+  "latestPublishedTopics": [
+    {
+      "topic": "Deploy Docker applications using multiple containers with a database",
+      "url": "https://github.com/praveenellaiyan/docker-labs/tree/master/dockerize-multi-container-application"
+    },
+    {
+      "topic": "Containerize SpringBoot Application using Docker",
+      "url": "https://github.com/praveenellaiyan/docker-labs/tree/master/dockerize-springboot"
+    },
+    {
+      "topic": "How to configure web application such that Spring AOP and AspectJ LTW eco-exist?",
+      "url": "#"
+    },
+    {
+      "topic": "Web crawling in python with an example",
+      "url": "#"
+    },
+    {
+      "topic": "Python fundamental programming",
+      "url": "#"
+    },
+    {
+      "topic": "What is common table expression in SQL?",
+      "url": "#"
+    },
+    {
+      "topic": "What is Explanation plan in SQL and how important it is?",
+      "url": "#"
+    },
+    {
+      "topic": "Serverless microservice architecture explanation with example using AWS",
+      "url": "#"
+    },
+    {
+      "topic": "How to create static website?",
+      "url": "#"
+    },
+    {
+      "topic": "Spring MVC explanation",
+      "url": "#"
+    },
+    {
+      "topic": "Pipeline setup using gitlab",
+      "url": "#"
+    },
+    {
+      "topic": "Scheduled job/program execution at intervals using AWS",
+      "url": "#"
+    },
+    {
+      "topic": "Setup environment to work with almost all AWS services locally",
+      "url": "#"
+    },
+    {
+      "topic": "What is redux and how important it is?",
+      "url": "#"
+    },
+    {
+      "topic": "Working with excel using python pandas library",
+      "url": "#"
+    },
+    {
+      "topic": "Cloud Formation Template explanation",
+      "url": "#"
+    },
+    {
+      "topic": "Richardson maturity principle explanation",
+      "url": "#"
+    },
+    {
+      "topic": "API documentation with example",
+      "url": "#"
+    },
+    {
+      "topic": "Open source library PDFBox to generate pdf in java with example",
+      "url": "#"
+    }
+  ]
+}

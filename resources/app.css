@@ -1,0 +1,20 @@
+.topic-content {
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    color: darkblue;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.navbar-brand:hover {
+    background-color: lightgrey;
+}
+
+@media only screen and (max-width : 800px){
+    .topic-content{
+        flex-direction: column;
+    }
+}
