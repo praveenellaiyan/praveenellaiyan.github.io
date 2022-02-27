@@ -1,6 +1,10 @@
-.topic-content {
+.topic-container {
     display: flex;
     flex-direction: row;
+}
+
+.explore-more {
+    text-align: end;
 }
 
 a {
@@ -14,7 +18,7 @@ a {
 }
 
 @media only screen and (max-width : 800px){
-    .topic-content{
+    .topic-container{
         flex-direction: column;
     }
 }
